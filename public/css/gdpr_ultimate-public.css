@@ -1,0 +1,8 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ h4.ui-pnotify-title {
+     font-size: 14px !important;
+     font-weight: bold !important;
+ }
